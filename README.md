@@ -11,7 +11,7 @@ Here we are resolving Syntactical conflicts.
 
 
 Dataset : It is the dataset of schemas which represent schemas of different hospitals of Indonesia. It contains schemas of 2 different datasources each contain 3 different relations.  Dataset Contains 4 columns each represents datasource, Table in that DataSource, Attributes of tables and DataTypes of Attributes. 
-![image](https://user-images.githubusercontent.com/75617519/134498195-90cf0451-2d71-4670-b0ce-d711f1f8c073.png)
+
 
 
 
