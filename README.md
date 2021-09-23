@@ -1,0 +1,2 @@
+# Database-Integration-based-on-Combination-Schema-Matching-Approach-
+The project proposes matching of hybrid combination schemas from two schema matching techniques, which are linguistic-based and constraint-based. Hybrid combination matching allows matching of individual schemas to complement each other. The result of matching this combination schema can be applied in query rewriting as multi-database query processing.
